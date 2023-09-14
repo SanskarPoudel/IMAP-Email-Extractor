@@ -21,11 +21,6 @@ This repository contains a Node.js script for extracting specific emails from a 
 - Node.js and npm installed on your system.
 - Ensure the required npm packages, such as "imap" and "mailparser," are installed.
 
-## Installation
-
-1. Clone this repository to your local machine.
-2. Install the necessary npm packages using `npm install`.
-
 ## Configuration
 
 Modify the IMAP server configuration and search criteria in the script to suit your needs.
